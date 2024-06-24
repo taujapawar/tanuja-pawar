@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @taujapawr
+- 👋 Hi, I’m @tanujapawar
 - 🌱 I’m currently learning BCA
